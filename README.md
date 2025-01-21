@@ -5,3 +5,5 @@ See [demo notebook](Npath_widget.ipynb) for a demo. You can run it on [ClearScap
 
 
 ![Npath Demo gif](img/demo.gif)
+
+![NPath Demo png](img/demo.png)
